@@ -14,6 +14,7 @@ https://www.eff.org/https-everywhere/set-https-default-your-browser - Turning on
 
 - Niche Plugins
 [https://www.one-tab.com/] - Saves & Converts tabs into list to save memory and your place so you can close your browser without worry.
+
 [https://addons.mozilla.org/en-US/firefox/addon/facebook-container] - Keeps Facebook cookies and other crap from tracking you (Firefox only).
 
 ## Now, tweaks and mods for Windows

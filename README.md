@@ -35,11 +35,9 @@ PowerToys is a ESSENTIAL and amazing suite of tools for Windows like a spotlight
 
 ## Next, suggestions / alternatives
 > Anti Virus
-- https://www.malwarebytes.com/
-Malwarebytes has a good buisiness model, you can completely exit it out unlike trash AVs such as avast and is very lightweight. Another alernative to Malwarebytes would be ByteDefender, both are good.
+- https://www.malwarebytes.com/ - Malwarebytes has a good buisiness model, you can completely exit it out unlike trash AVs such as avast and is very lightweight. Another alernative to Malwarebytes would be ByteDefender, both are good.
 > VPNs
-- https://mullvad.net/en/ 
-Mullvad VPN is the best of the best and there's no point in even arguing. 
+- https://mullvad.net/en/ - Mullvad VPN is the best of the best and there's no point in even arguing. 
 
 > Authenticator
 - https://authy.com/ - Authenticator App

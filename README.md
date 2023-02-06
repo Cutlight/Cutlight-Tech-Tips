@@ -5,6 +5,7 @@ Also on ControlC - https://controlc.com/0551a7d8
 First and foremost, most people I know online have no clue what their doing when it comes to their browser plugins. So here's a few suggestions. First the general stuff that I would say are ESSENTIAL, then the more niche plugins.
 
 > Essential Plugins 
+
 https://www.eff.org/https-everywhere/set-https-default-your-browser - Turning on HTTPS:// everywhere, keeps you safe while you browse.
 
 https://ublockorigin.com/ - The only ad-blocker you'll ever need.
@@ -12,6 +13,7 @@ https://ublockorigin.com/ - The only ad-blocker you'll ever need.
 https://darkreader.org/ - Open source dark mode that you can configure site-based or just keep it on so all sites have dark mode by default.
 
 > Niche Plugins 
+
 https://www.one-tab.com/ - Saves & Converts tabs into list to save memory and your place so you can close your browser without worry.
 
 https://addons.mozilla.org/en-US/firefox/addon/facebook-container - Keeps Facebook cookies and other crap from tracking you (Firefox only).

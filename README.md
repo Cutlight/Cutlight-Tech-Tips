@@ -48,6 +48,28 @@ Why use Google Authenticator? It's stupid and it's made by google.
 - https://openasar.dev/
 OpenAsar is a discord bootstrapper that rewrites some of the desktop portions of Discords app which unintentionally makes it run faster and quicker. You can also enable some privacy features within it.
 
+## Websites
+> https://urlquery.net/
+Some of you desperately need this, used to see the pathing a url takes you to, and shows you the output image of what the result is. USE THIS ON SUS LINKS
+
+> https://tinywow.com/
+A BUNCH of free tools like file type converters, all the way to a background blurrer.
+
+> https://hat.sh/
+A simple secure client-side file encryption.
+
+> https://simplelogin.io/
+Open source email alias creator to make throw away aliases or ones for websites to prevent being compromised in data leaks.
+
+> https://monitor.firefox.com
+Will Monitor your email address to see if it's been leaked in data breaches.
+
+> https://qaz.wtf/u/convert.cgi?text=
+Unicode Text Converter to convert your plain text into unicode 𝐥𝐢𝐤𝐞 𝐭𝐡𝐢𝐬.
+
+> https://monkeytype.com/
+Minimalistic typing test that's the best out there.
+
 ## Discord bots
 > https://sapph.xyz/ - Management bot
 Sapphire is the all-in-one discord bot that replaces Mee6 and Dyno. All of it's features are completely free unlike Mee6 and Dyno and yet it has all of their features and more.

@@ -41,8 +41,7 @@ PowerToys is a ESSENTIAL and amazing suite of tools for Windows like a spotlight
 
 > Authenticator
 - https://authy.com/ - Authenticator App
-- https://www.yubico.com/ - Physical Authenticator Key
-Why use Google Authenticator? It's stupid and it's made by google.
+- https://www.yubico.com/ - Physical Authenticator Key. Why use Google Authenticator? It's stupid and it's made by google.
 
 > Discord Mods
 - https://openasar.dev/

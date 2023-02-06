@@ -7,7 +7,9 @@ First and foremost, most people I know online have no clue what their doing when
 
 - Essential Plugins
 https://www.eff.org/https-everywhere/set-https-default-your-browser - Turning on HTTPS:// everywhere, keeps you safe while you browse.
-[https://ublockorigin.com/] - The only ad-blocker you'll ever need. Also 
+
+[https://ublockorigin.com/] - The only ad-blocker you'll ever need.
+
 [https://darkreader.org/] - Open source dark mode that you can configure site-based or just keep it on so all sites have dark mode by default.
 
 - Niche Plugins

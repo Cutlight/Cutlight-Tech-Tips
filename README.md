@@ -1,6 +1,6 @@
 Also on ControlC - https://controlc.com/0551a7d8
 ## Welcome to Cutlight Tech Tips Paste, this is meant to be a general paste of just good-practice tips/suggestions for certain things to make your internet experience better.
-## _If you're not using chrome or firefox, please go to the timeout corner._
+## _If you're not using chrome of firefox, please go to the timeout corner._
 
 First and foremost, most people I know online have no clue what their doing when it comes to their browser plugins. So here's a few suggestions. First the general stuff that I would say are ESSENTIAL, then the more niche plugins.
 
@@ -34,6 +34,9 @@ Windows Terminal to replace cmd prompt and powershell, can do it all. I only sug
 PowerToys is a ESSENTIAL and amazing suite of tools for Windows like a spotlight search feature similar to MacOS, a Text Extractor from images, Color Picker, File Locksmith and a whole bunch of other cool stuff. I personally just spotlight search the most.
 
 ## Next, suggestions / alternatives
+> Anti Virus
+- https://www.malwarebytes.com/
+Malwarebytes has a good buisiness model, you can completely exit it out unlike trash AVs such as avast and is very lightweight. Another alernative to Malwarebytes would be ByteDefender, both are good.
 > VPNs
 - https://mullvad.net/en/ 
 Mullvad VPN is the best of the best and there's no point in even arguing. 

@@ -19,59 +19,61 @@ https://www.one-tab.com/ - Saves & Converts tabs into list to save memory and yo
 https://addons.mozilla.org/en-US/firefox/addon/facebook-container - Keeps Facebook cookies and other crap from tracking you (Firefox only).
 
 ## Now, tweaks and mods for Windows
-- https://github.com/ChrisTitusTech/winutil
-CTT's winutil is a MUST HAVE for Windows tweaks and isn't some bloatware like CCleaner, you use it and when you're done it's done easy as that. I recommend watching his video if you need a tutorial on what to enable specifically. https://www.youtube.com/watch?v=vXyMScSbhk4
+https://github.com/ChrisTitusTech/winutil - CTT's winutil is a MUST HAVE for Windows tweaks and isn't some bloatware like CCleaner, you use it and when you're done it's done easy as that. I recommend watching his video if you need a tutorial on what to enable specifically. https://www.youtube.com/watch?v=vXyMScSbhk4
 
-- https://www.oo-software.com/en/shutup10
-Used to disable and turn off Windows built in spyware and tracking along with other tweaks. READ THROUGH SO YOU KNOW WHAT YOURE DISABLING.
-- https://www.bleachbit.org/
-BleachBit is a amazing tool you can use to clean up your computer, I recommend using it bi-weekly if you have a cluttered computer. READ THROUGH SO YOU KNOW WHAT YOURE REMOVING.
+https://www.oo-software.com/en/shutup10 -  Used to disable and turn off Windows built in spyware and tracking along with other tweaks. READ THROUGH SO YOU KNOW WHAT YOURE DISABLING.
 
-- https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701
-Windows Terminal to replace cmd prompt and powershell, can do it all. I only suggest doing this if you have basic knowledge of coding and commands on windows, it's not a essential to have just a quality of life change.
+https://www.bleachbit.org/ - BleachBit is a amazing tool you can use to clean up your computer, I recommend using it bi-weekly if you have a cluttered computer. READ THROUGH SO YOU KNOW WHAT YOURE REMOVING.
 
-- https://github.com/microsoft/PowerToys/releases/tag/v0.67.0
-PowerToys is a ESSENTIAL and amazing suite of tools for Windows like a spotlight search feature similar to MacOS, a Text Extractor from images, Color Picker, File Locksmith and a whole bunch of other cool stuff. I personally just spotlight search the most.
+https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701 - Windows Terminal to replace cmd prompt and powershell, can do it all. I only suggest doing this if you have basic knowledge of coding and commands on windows, it's not a essential to have just a quality of life change.
+
+https://github.com/microsoft/PowerToys/releases/tag/v0.67.0 - PowerToys is a ESSENTIAL and amazing suite of tools for Windows like a spotlight search feature similar to MacOS, a Text Extractor from images, Color Picker, File Locksmith and a whole bunch of other cool stuff. I personally just spotlight search the most.
 
 ## Next, suggestions / alternatives
-> Anti Virus
-- https://www.malwarebytes.com/ - Malwarebytes has a good buisiness model, you can completely exit it out unlike trash AVs such as avast and is very lightweight. Another alernative to Malwarebytes would be ByteDefender, both are good.
-> VPNs
-- https://mullvad.net/en/ - Mullvad VPN is the best of the best and there's no point in even arguing. 
+## Anti Virus
+https://www.malwarebytes.com/ - Malwarebytes has a good buisiness model, you can completely exit it out unlike trash AVs such as avast and is very lightweight. Another alernative to Malwarebytes would be ByteDefender, both are good.
 
-> Authenticator
-- https://authy.com/ - Authenticator App
-- https://www.yubico.com/ - Physical Authenticator Key. Why use Google Authenticator?
+https://www.kaspersky.com/downloads/internet-security - Kaspersky has a suite of things and is kind bundled with other stuff. Decline the other apps and all the other crap and just their Anti Virus is top tier, zero compromises.
+## DNS
+https://nextdns.io/ -  NextDNS is a customizable DNS (Domain Name System) service that provides privacy and security to your online activity by blocking ads, trackers, malware, and other unwanted content. It allows you to block or allow specific domains, view your network activity, and customize your settings.
+## VPNs
+https://mullvad.net/en/ - Mullvad VPN is the best of the best and there's no point in even arguing. 
 
-> Discord Mods
-- https://openasar.dev/
-OpenAsar is a discord bootstrapper that rewrites some of the desktop portions of Discords app which unintentionally makes it run faster and quicker. You can also enable some privacy features within it.
+## 2FA Apps
+> iOS:
 
-## Websites
-> https://urlquery.net/
-Some of you desperately need this, used to see the pathing a url takes you to, and shows you the output image of what the result is. USE THIS ON SUS LINKS
+https://apps.apple.com/us/app/raivo-otp/id1459042137 - Backed up with your iCloud and straight to the point.
+https://apps.apple.com/us/app/tofu-authenticator/id1082229305 - Another solid 2FA
+> Android
 
-> https://tinywow.com/
-A BUNCH of free tools like file type converters, all the way to a background blurrer.
+https://play.google.com/store/apps/details?id=org.shadowice.flocke.andotp&gl=US - andOTP is TOTP(Time-based One-time Passwords)
+https://getaegis.app/ - Aegis Authenticator, both apps offer similar features to one another, just with slight variations. 
 
-> https://hat.sh/
-A simple secure client-side file encryption.
+> Physical
 
-> https://simplelogin.io/
-Open source email alias creator to make throw away aliases or ones for websites to prevent being compromised in data leaks.
+https://www.yubico.com/ - Physical Authenticator Key. THE BEST.
 
-> https://monitor.firefox.com
-Will Monitor your email address to see if it's been leaked in data breaches.
+## Websites for your bookmarks
+https://spectre.app/ - Spectre is the top tier password app. With it's own cipher it stores NON of your passwords and I use it personally for everything. Ensure that 'Your Spectre Secret' isn't easily guessable.
 
-> https://qaz.wtf/u/convert.cgi?text=
-Unicode Text Converter to convert your plain text into unicode 𝐥𝐢𝐤𝐞 𝐭𝐡𝐢𝐬.
+https://urlquery.net/ - Some of you desperately need this, used to see the pathing a url takes you to, and shows you the output image of what the result is. USE THIS ON SUS LINKS
 
-> https://monkeytype.com/
-Minimalistic typing test that's the best out there.
+https://tinywow.com/ - A BUNCH of free tools like file type converters, all the way to a background blurrer.
+
+https://hat.sh/ - A simple secure client-side file encryption.
+
+https://simplelogin.io/ - Open source email alias creator to make throw away aliases or ones for websites to prevent being compromised in data leaks.
+
+https://monitor.firefox.com - Will Monitor your email address to see if it's been leaked in data breaches.
+
+https://qaz.wtf/u/convert.cgi?text= - Unicode Text Converter to convert your plain text into unicode 𝐥𝐢𝐤𝐞 𝐭𝐡𝐢𝐬.
+
+https://monkeytype.com/ - Minimalistic typing test that's the best out there.
 
 ## Discord bots
-> https://sapph.xyz/ - Management bot
-Sapphire is the all-in-one discord bot that replaces Mee6 and Dyno. All of it's features are completely free unlike Mee6 and Dyno and yet it has all of their features and more.
+https://sapph.xyz/ - Management bot - Sapphire is the all-in-one discord bot that replaces Mee6 and Dyno. All of it's features are completely free unlike Mee6 and Dyno and yet it has all of their features and more.
 
-> https://discohook.org/ - Webhooks
-Also comes with a bot that can be used to edit, make reaction roles and restore webhooks.
+https://discohook.org/ - Also comes with a bot that can be used to edit, make reaction roles and restore webhooks.
+
+## Discord Mods
+>https://openasar.dev/ - OpenAsar is a discord bootstrapper that rewrites some of the desktop portions of Discords app which unintentionally makes it run faster and quicker. You can also enable some privacy features within it.

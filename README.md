@@ -1,5 +1,5 @@
 Also on ControlC - https://controlc.com/0551a7d8
-## Welcome to Cutlight Tech Tips Paste, this is meant to be a general paste of just good-practice tips/suggestions for certain things to make your internet experience better.
+## Welcome to Dunelight Tech Tips Paste, this is meant to be a general paste of just good-practice tips/suggestions for certain things to make your internet experience better.
 ## _If you're not using chrome or firefox, please go to the timeout corner._
 
 First and foremost, most people I know online have no clue what their doing when it comes to their browser plugins. So here's a few suggestions. First the general stuff that I would say are ESSENTIAL, then the more niche plugins.

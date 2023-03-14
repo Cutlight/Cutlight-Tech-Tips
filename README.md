@@ -38,9 +38,11 @@ All have their own benefits and downsides but it's really up to you.
 If you're planning on gaming with this laptop, make sure it has more than 8GB of RAM as a bare minimum, along with that look at the graphics. It's important to note that any gaming focused laptop will be MUCH more expensive compared to one to daily as a school laptop or something simple.
 
 ## Anti Virus
+Treat Anti Virus programs like tools, not armor that makes your computer invicible. Do not download crap that can has any potential to be harmful, getting baited into downloading malware is stupider than getting scammed by Baljeet from Microsoft Headquarters
+
 https://www.malwarebytes.com/ - Malwarebytes has a good buisiness model, you can completely exit it out unlike trash AVs such as avast and is very lightweight. Another alernative to Malwarebytes would be ByteDefender, both are good.
 
-https://www.kaspersky.com/downloads/internet-security - Kaspersky has a suite of things and is kind bundled with other stuff. Decline the other apps and all the other crap and just their Anti Virus is top tier, zero compromises.
+https://www.kaspersky.com/downloads/internet-security - Kaspersky has a suite of things and is kind bundled with other stuff. Decline the other apps and all the other crap and just their Anti Virus cuts no corners and will keep you as safe as you can be.
 ## DNS
 https://nextdns.io/ -  NextDNS is a customizable DNS (Domain Name System) service that provides privacy and security to your online activity by blocking ads, trackers, malware, and other unwanted content. It allows you to block or allow specific domains, view your network activity, and customize your settings.
 ## VPNs

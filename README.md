@@ -30,6 +30,13 @@ https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701 - Windows 
 https://github.com/microsoft/PowerToys/releases/tag/v0.67.0 - PowerToys is a ESSENTIAL and amazing suite of tools for Windows like a spotlight search feature similar to MacOS, a Text Extractor from images, Color Picker, File Locksmith and a whole bunch of other cool stuff. I personally just spotlight search the most.
 
 ## Next, suggestions / alternatives
+## Laptops
+HP- https://www.hp.com/us-en/shop/cat/laptops
+LG - https://www.lg.com/us/laptops
+Framework - https://frame.work/
+All have their own benefits and downsides but it's really up to you.
+If you're planning on gaming with this laptop, make sure it has more than 8GB of RAM as a bare minimum, along with that look at the graphics. It's important to note that any gaming focused laptop will be MUCH more expensive compared to one to daily as a school laptop or something simple.
+
 ## Anti Virus
 https://www.malwarebytes.com/ - Malwarebytes has a good buisiness model, you can completely exit it out unlike trash AVs such as avast and is very lightweight. Another alernative to Malwarebytes would be ByteDefender, both are good.
 

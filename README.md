@@ -57,6 +57,8 @@ https://apps.apple.com/us/app/tofu-authenticator/id1082229305 - Another solid 2F
 
 https://play.google.com/store/apps/details?id=org.shadowice.flocke.andotp&gl=US - andOTP is TOTP(Time-based One-time Passwords)
 https://getaegis.app/ - Aegis Authenticator, both apps offer similar features to one another, just with slight variations. 
+> Learning to code
+https://javascript.info/intro - Start with JS and HTML, then advance from there, this is the best tutorial for JS known to mankind.
 
 > Physical
 

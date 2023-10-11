@@ -14,9 +14,7 @@ https://darkreader.org/ - Open source dark mode that you can configure site-base
 
 > Niche Plugins 
 
-https://www.one-tab.com/ - Saves & Converts tabs into list to save memory and your place so you can close your browser without worry.
-
-https://addons.mozilla.org/en-US/firefox/addon/facebook-container - Keeps Facebook cookies and other crap from tracking you (Firefox only).
+https://addons.mozilla.org/en-US/firefox/addon/facebook-container - Keeps Facebook cookies out (Firefox only).
 
 ## Now, tweaks and mods for Windows
 https://github.com/ChrisTitusTech/winutil - CTT's winutil is a MUST HAVE for Windows tweaks and isn't some bloatware like CCleaner, you use it and when you're done it's done easy as that. I recommend watching his video if you need a tutorial on what to enable specifically. https://www.youtube.com/watch?v=vXyMScSbhk4
